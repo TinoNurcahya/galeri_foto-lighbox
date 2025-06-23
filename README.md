@@ -1,3 +1,3 @@
-# galeri foto lighbox
+# galeri foto lightbox
 
-[https://foto-lighbox.netlify.app/]
+[https://foto-lightbox.netlify.app/]
