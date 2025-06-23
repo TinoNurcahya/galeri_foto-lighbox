@@ -1,5 +1,5 @@
 # 🖼️ Galeri Foto dengan Lightbox
-Proyek ini adalah galeri foto sederhana berbasis web yang menampilkan gambar dalam grid, dan menggunakan efek **lightbox** untuk memperbesar tampilan saat gambar diklik. Cocok untuk portofolio, dokumentasi, atau galeri produk.
+Proyek ini adalah latihan dari youtube WPU, galeri foto sederhana berbasis web yang menampilkan gambar dalam grid, dan menggunakan efek **lightbox** untuk memperbesar tampilan saat gambar diklik. Cocok untuk portofolio, dokumentasi, atau galeri produk.
 
 ---
 
