@@ -26,5 +26,5 @@ Proyek ini adalah latihan dari youtube WPU, galeri foto sederhana berbasis web y
    git clone https://github.com/TinoNurcahya/galeri_foto-lightbox.git
 
 ---
-## 🔗 Link
+## 🔗 Link Website
 [https://foto-lightbox.netlify.app/]
